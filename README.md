@@ -1,0 +1,2 @@
+# Multiple-Movie-Ticket-Booking-System-Using-Singleton-Design-Pattern
+This project is a movie ticket booking system built using Python and the Singleton design pattern. Each movie has only one shared instance, so ticket availability remains consistent across platforms like BookMyShow and Paytm. It prevents overbooking by updating remaining tickets after each booking and demonstrates decorators and OOP concepts.
